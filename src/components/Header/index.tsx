@@ -1,10 +1,10 @@
 // dependencies
 import { Timer, Scroll } from 'phosphor-react'
+import { NavLink } from 'react-router-dom'
 
 // styles & images
 import { Container } from './styles'
 import logoIgnite from '../../assets/logo-ignite.svg'
-import { NavLink } from 'react-router-dom'
 
 export function Header() {
   return (
